@@ -1,0 +1,2 @@
+# Club_Application_Delete_Account
+Delete Account guideline
